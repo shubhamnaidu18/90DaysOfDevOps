@@ -31,11 +31,10 @@ o	Extract insights using commands:
 ![image](https://github.com/user-attachments/assets/994b50ac-1f79-4b4b-afdb-d38de0481d80)
 ![image](https://github.com/user-attachments/assets/0f50422a-58fe-43b1-a6ef-271176f35d5e)
 
-
- 
- 
 	Use sed to replace all IP addresses with [REDACTED] for security.
 o	Bonus: Find the most frequent log entry using awk or sort | uniq -c | sort -nr | head -10.
+![image](https://github.com/user-attachments/assets/7766ba0b-bb16-4249-9a72-bb968ceb4f4c)
+
 
 
 
