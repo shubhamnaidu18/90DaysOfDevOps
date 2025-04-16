@@ -16,3 +16,5 @@ Git Branching Explained (Feature, Develop, Main)
 How to Resolve Git Merge Conflicts
 
 Git Ignore – What It Is and Why It Matters
+
+end of file
