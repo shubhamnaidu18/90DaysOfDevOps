@@ -1,2 +1,4 @@
 this is test file for git week 4 task
-shubham naidu`
+shubham naidu
+
+Shubham Naidu is a driven and curious individual with a passion for continuous growth—especially in tech. He blends a professional mindset with a laid-back vibe, making complex things feel simple and approachable`
