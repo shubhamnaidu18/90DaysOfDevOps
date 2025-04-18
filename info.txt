@@ -1,20 +1,2 @@
-shubham naidu 
-
-learing git and github
-
-🔥 Basic Git Topics (Must-Know for DevOps)
-What is Git and Why DevOps Uses It
-
-Git vs GitHub vs GitLab
-
-Common Git Commands for Daily DevOps Tasks
-
-How to Clone, Commit, Push, and Pull in Git
-
-Git Branching Explained (Feature, Develop, Main)
-
-How to Resolve Git Merge Conflicts
-
-Git Ignore – What It Is and Why It Matters
-
-end of file
+this is a week 4 task.
+shubham naidu  
