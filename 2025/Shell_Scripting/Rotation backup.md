@@ -35,9 +35,9 @@ if [ $num_backup_to_remove > 0 ]; then
         # List old backup, sort by timestamp, and remove the excess
         old_backup=$(ls -l "$dest" | grep "backup" | sort | head -n $num_backup_to_remove)
 
-        for old_backup in $old_backup; do
-                rm "$dest/$old_backup"
-                echo "Removed old Back : $old_backup"
+        for old_file in $old_backup; do
+                rm "$dest/$old_file"
+                echo "Removed old Back : $old_file"
         done
 fi
                                                                                                                                                                        1,8           Top
